@@ -6,4 +6,5 @@
 
 # 🚩 Introduction
 
-<p><b>InstaChatbot</b> is a script where you can talk and interact with your bot on Instagram DM and ask anything and it will definitely be answered because this bot has been equipped with chatgpt</p>
+<p><b>InstaChatbot</b> is a script where you can talk and interact with your bot on Instagram DM and ask anything and it will definitely be answered because this bot has been equipped with chatgpt<br>
+and the following are the functions of this website system</p>
