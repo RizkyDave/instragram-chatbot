@@ -42,4 +42,4 @@ and if anyone wants this project to continue you can support us using
 - 🤑 saweria : https://trakteer.id/DappyNet
 
 ## License
-This project is licensed under [MIT License](https://github.com/Dappy-Net/Semaphoreify/blob/main/LICENSE) 2022 DappyNet Industry
+This project is licensed under [MIT License](https://github.com/Dappy-Net/instragram-chatbot/blob/main/LICENSE) 2022 DappyNet Industry
